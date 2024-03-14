@@ -2,7 +2,7 @@
 
 Single file, browser based side-by-side patch file viewer.
 
-Try it online: http://megatops.github.io/PatchViewer/
+Try it online: https://vn-os.github.io/patch-viewer/
 
 Just save the `PatchViewer.html` to use it offline. No any other dependencies or internet access needed.
 
